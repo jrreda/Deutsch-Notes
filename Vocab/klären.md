@@ -1,0 +1,3 @@
+- klären = clarify / clear up / settle
+- erklären = explain / declare
+- 

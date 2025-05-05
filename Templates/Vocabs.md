@@ -1,0 +1,3 @@
+- bezahlbare: affordable #adjective 
+- geschafft: done #adjective 
+- geschämt: ashamed #adjective 
