@@ -1,5 +1,5 @@
 ## 🗣️ Wichtige Sätze
-- Ich nehme gern Vorschläge entgegen und mache den Gutschein
+-
 
 ---
 

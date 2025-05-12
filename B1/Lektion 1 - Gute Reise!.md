@@ -118,15 +118,18 @@
 ---
 ## #Gut-gesagt: Wenn etwas nicht gut läuft 
 
-	- Ich habe keinen Bock mehr. 
+- Ich habe keinen Bock mehr. 
 - Ich mag nicht mehr.
 - Der ganze Urlaub ist im Eimer.
 - Heute geht echt alles schief. 
 
 ---
 ## 📌 Wortbildung - Infinitiv als Nomen
-Infinitive kann man auck als Nomen verwenden: reise - das Reisen
-
+Infinitive kann man auch als Nomen verwenden: *reise* - *das Reisen*
+	- Diese Nomen sind immer neutrum (das).
+- Oft verwendet man sie mit den Präposition (*bei* oder * zu*)
+	- Beim Fliegen = wenn ich fliege.
+	- Zum Erholen = weil ich mich erholen will.
 
 ---
 
@@ -149,3 +152,16 @@ Infinitive kann man auck als Nomen verwenden: reise - das Reisen
 - Um Deutsch zu lernen, ist es wichtig, die Entwicklung [[zu]] verfolgen.
 - Wie verändert [[sich]] das? Also, werden's mehr, werden es weniger, kommen neue Arten dazu?
 - Dann hab' ich da immer eine sehr gute Zeit und fühle [[mich]] sehr wohl.
+
+---
+
+## ✍️ Mein Text: Leben auf dem Land oder Leben in der Stadt?
+
+Ich glaube jeder Ort hat sowohl Vorteile als auch Nachteile. In Ägypten ich mag die Leben in der Stadt, weil es viele dinge zu tun gibt. Es gibt viel Arbeit möglichkeiten und man kann viel Geld verdienen. mit er ich kann mein Leben besser oder nach viele Städte fliegen zum Beispiel. Trotzdem finde ich das Land kann man gesund sein und die Zeit ist nicht so schnell wie in großen Städte wie Kairo zum Beispiel, finde ich sehr langweilig. Am Ende ich mochte in Stadt am Meer zu leben.
+
+Ich glaube, jeder Ort hat sowohl Vorteile als auch Nachteile.  
+In Ägypten mag ich das Leben in der Stadt, weil es viele Dinge zu tun gibt.  
+Es gibt viele Arbeitsmöglichkeiten, und man kann viel Geld verdienen.  
+Damit kann ich mein Leben verbessern oder in viele andere Städte fliegen, zum Beispiel.  
+Trotzdem finde ich, dass man auf dem Land gesünder leben kann und die Zeit dort nicht so schnell vergeht wie in großen Städten – wie Kairo zum Beispiel, das ich sehr langweilig finde.  
+Am Ende möchte ich in einer Stadt am Meer leben.

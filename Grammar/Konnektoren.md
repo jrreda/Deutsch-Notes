@@ -13,6 +13,7 @@
 # Nebensatz
 - weil / da [am start]
 - dass
+- sodass, so ... das
 - als
 - bevor
 - bis

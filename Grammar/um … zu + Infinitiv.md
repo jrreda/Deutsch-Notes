@@ -15,7 +15,7 @@ Es bedeutet so viel wie **„damit“ oder „in order to“** auf Englisch.
 
 1. **„um“** steht immer am Anfang des Nebensatzes.
 2. **„zu“** steht **direkt vor** dem Verb im Infinitiv.
-3. Das Subjekt ist **in beiden Satzteilen gleich**. Wenn nicht, brauchst du „damit“.
+3. Das Subjekt ist **in beiden Satzteilen gleich**. ==Wenn nicht, brauchst du „damit“.==
 
 ---
 ### ❗ Wenn das Subjekt **anders** ist:
