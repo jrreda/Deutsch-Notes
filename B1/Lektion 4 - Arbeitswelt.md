@@ -39,7 +39,7 @@
 - exakt = exact
 - ernst = serious
 - häufig = immer
-- allerdings
+- allerdings ::: aber
 - umsonst = kostenlos
 - heutzutage
 - unabhängig von

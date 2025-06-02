@@ -1,8 +1,8 @@
 
 # Hauptsatz
 - und (kein komma)
-- oder (kein komma)
-- aber / doch / sondern [negativ satz]
+- oder (kein Komma)
+- aber / doch / sondern [negativ Satz]
 - denn / deshalb / darum / deswegen / aus diesem Grund
 ## Adverb
 - dann

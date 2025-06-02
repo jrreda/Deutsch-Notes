@@ -74,6 +74,7 @@
 - verteilen = distribute
 - verstorben = deceased / فقيد
 - spüren = sense
+- entstehen = arise / develop / emerge
 
 ### **Adjektive und Adverbien**
 -  traumhaft

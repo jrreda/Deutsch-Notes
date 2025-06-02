@@ -58,6 +58,13 @@ Im **Passivsatz** steht **die Handlung** im Mittelpunkt – **nicht die Person**
 | Man musste das Auto reparieren. | Das Auto **musste repariert werden**.   |
 | Sie konnte das Fenster öffnen.  | Das Fenster **konnte geöffnet werden**. |
 
+### 5. Lassen
+> **„sich lassen“ + Infinitiv**
+
+Beispiel:
+- **Die Milch wird nicht mehr getrunken.** (Passiv)
+- **Die Milch lässt sich nicht mehr trinken.** (lässt sich + Infinitiv = Vorgangspassiv)
+
 ---
 ## 🎯 Wann verwendet man das Passiv?
 

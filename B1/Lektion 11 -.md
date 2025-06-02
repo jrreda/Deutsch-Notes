@@ -9,7 +9,12 @@
 - 
 
 ### **Verben**
-- 
+- aussuchen = select / pick out
+- angehen = concern
+- können sich leisten = can affoard
+- sich ereignen = to occur
+	- Sie sich ein schrecklicher Unfall ereignete
+- zugang zu = access to
 
 ### **Adjektive und Adverbien**
 -  
