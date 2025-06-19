@@ -18,7 +18,11 @@
 - Nie wieder.
 - auf der linken Seite
 - das weiß ich doch!
-- Wie kommst du zur arbeit.
+- Wie kommst du zur Arbeit?
+- Das kann nicht sein!
+- Ich muss loss!
+- Schönen Tag noch!
+- Komm mal her! = come over here!
 
 ---
 
@@ -37,15 +41,35 @@
 - die Gasse = a small street (alley) like (der Weg)
 - die Allee = a large, wide street
 - die Oper, n = opera
+- der Fahrplan, die Fahrpläne = timetable; schedule
+- die Tastatur ,n = keyboard
+- der Verkehr = traffic
+- die Beilage, n = side dish
+- der Pfannkuchen = pancake
+- die Wäsche #nur_singular = laundry
+- das Geschirr #nur_singular = crockery / dishes
+- der Besen, - = broom / مقشة
+- der Staubsauger, - = vacuum cleaner
+- die Wäsche #nur_singular = washing / laundry
+- die Freizeit #nur_singular = freetime
 
 ## #Verben 
-- ausschalfen = to sleep in
+- aus|schalfen = to sleep in
 - vereinbaren sie einen Termin = make an appointment
 - etwas ab|sagen -> sagt ab, sagte ab, hat abgesagt = to cancel something
 - statt|finden = to occur / to take place
 - ab|biegen + Akk = means to go around a corner in this situation. You can also use the verb "**fahren**" if you are referring to driving a car.
 - überqueren = to cross
 - entlang|gehen = to walk down / along
+- saugen = to vacuum
+- etwas ein|räumen = to put something (away) #gegenteil-von  etwas aus|räumen = to empty
+- etwas ab|trocknen = to dry something (off) #gegenteil-von  etwas ab|waschen = to wash
+- etwas auf|hängen = to hang up something (clothes)
+- kehren = to sweep
+- spülten = to wash
+- staubsaugen = to vacuum
+- angeln = to fish
+- sport treiben = do sport / workout
  
 ### #Adjektive  und #Adverbien 
 - dreckig (dreckiger, am dreckigsten) = dirty
@@ -54,6 +78,13 @@
 - wie = as
 - fest = fixed
 - nah #gegenteil-von  weit
+- Vorübergehend = Temporary
+- schrecklich = awful
+- genauso = just like / equally
+- niemals = never (ever)
+- nie mehr = never again
+- wie = as
+- anstrengend = strenuous #gegenteil-von entspannend = relaxing
 
 
 ---
@@ -82,6 +113,19 @@
 	- (der Platz) _Das Restaurant von Max und Tarek ist **am Friedensplatz 22**._
 - For directions, as in when showing someone the way, the conjugated verb comes at the beginning of the sentence.
 	- Gehen Sie bis zur nächsten Kreuzung.
+- Careful! The pronunciation of the word "**Linie**" is an exception. Usually, the combination "**ie**" is pronounced as a long "i", and the "e" is silent. In "Linie", however, both sounds are pronounced.
+- The "**r**" is pronounced more like the German "**a**" at the end of a syllable!
+- The prepositions "**neben**", "**hinter**", "**unter**", "**über**", "**in**", "**an**", "**auf**", "**vor**" and "**zwischen**" take:
+	- the **dative** after the question "Wo?".
+	- the **accusative** after the question "Wohin?".
+- "**kehren**" is a verb you will mainly come across in southern Germany. In northern Germany, people tend to use the word "**fegen**" instead.
+- The verbs "**abwaschen**" and "**abtrocknen**" have the same separable prefix. When listing multiple verbs with the same prefix, it is enough to use "**ab**" just once, as in: ***Er wäscht und trocknet ab***.
+- The adverbs of frequency "**selten**", "**nie**", "**oft**", etc. can either be in the first position or in third position, after the verb
+- "**Selten**" has almost the same meaning as "**manchmal**"
+![nie/niemals', 'selten', 'manchmal', regelmäßig', 'oft/häufig', 'immer/ständig', the increasing intensity of the words is visually represented by steps of increasing height](https://static.dw.com/image/37734940_906.jpg)
+- When we want to compare two people or things that are the same in a particular respect, we use _(genau)so_ + the basic form of the adjective + _wie_:
+	- _Sebastian kocht **so gut wie** Lisa.  
+	- Max arbeitet **genauso viel wie** Tarek.
 
 ---
 ## Vowel change: e to i
@@ -119,3 +163,41 @@ _Ich **nehme** eine Pizza mit Thunfisch. Und was **nimmst** du, Nico? – Ich **
 **_ab_** + time or day of the week
 	**_Ab_** _wann hat das Restaurant geöffnet?  
 	Das Restaurant hat **ab** neun Uhr geöffnet._
+
+
+---
+
+## When is a vowel long, and when short?
+*Y**og**a, K**in**o, B**ad**, M**us**ik:*  
+They are only followed by one consonant, hence the vowel is long.  
+  
+*sp**ie**len, n**ie**:*
+Here too, the vowels marked are long and close. The sound "ie" is like a long "i". The "e" is silent here.  
+  
+*f**ah**ren, g**eh**en, Fr**üh**stück:*
+The "h" is silent. It only shows that the preceding vowel is long.
+
+***Tee, Zoo**:*
+The marked vowels are usually spoken as a single sound, and are long and close, when the vowel is doubled.
+
+*B**all**, schw**imm**en, tr**eff**en, j**ogg**en:*
+A vowel is usually short and open when it precedes a double consonant.
+
+***anstr**engend, **int**eressant, m**anch**mal, **ang**eln, w**and**ern:*
+A vowel is usually also short and open when it precedes multiple consonants.
+
+---
+## gehen + infinitive
+
+**_Gehst_** _du gerne **schwimmen**? – Ja, ich **gehe** gerne **schwimmen**._
+
+If we want to express that we are leaving one place in order to do something in another place, then the word _gehen_ is sometimes combined with a second verb. There are some established verb combinations that follow this pattern:
+
+_arbeiten gehen  
+einkaufen gehen  
+spazieren gehen  
+angeln gehen  
+schwimmen gehen  
+schlafen gehen_
+
+In these expressions, the word _gehen_ is conjugated. The second verb comes at the end of the sentence in the infinitive.

@@ -47,6 +47,7 @@
 - [[der]] Feierabend = Quitting time
 - [[der]] Eingang = entrance
 - [[die]] Enttäuschung = disappointment
+- [[der]] Hüter, - = guardian
 
 ### #Verben
 - [[sich]] ([[zu]]) entscheiden ::: [[sich]] ([[zu]]) entschließen = to decide
