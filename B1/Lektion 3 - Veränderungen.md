@@ -36,6 +36,7 @@
 - [[der]] Weltmeister, -e | in, nen = world champion
 - [[die]] Wirbelsäule, -n = spine
 - [[der]] Aufenthalt, e = stay
+- [[der]] Held, en | in, nen = Hero
 
 ### **Verben**
 - verursachen = cause
@@ -53,7 +54,7 @@
 - stürzen = to fall
 - tätig sein = be active
 - begeistern = to inspire / delight
-- 
+- bewundern = to admire
 
 ### **Adjektive und Adverbien**
 - streng = strict
@@ -105,3 +106,14 @@
 
 > Sie hat das Klavierspielen **an den Nagel gehängt**.
 > = *Sie spielt Klavier nicht mehr*.
+
+
+---
+
+## ⏳ über vergangenes berichten 
+1. Beim *Sprechen* oder in *persönlichen Texten* wie E-Mails verwendet man meistens das **Perfekt**
+2. In *offiziellen Texten* wie *Zeitungsartikeln, Berichten* und *literarischen Texten* verwendet man häufig das **Präteritum**
+3. Einige Verben verwendet man fast immer im **Präteritum**: *sein*, *haben* und die *Modalverben*
+	1. Gestern war ich im kino
+	2. Gestern wollte ich ins kino gehen
+	3. Gestern hatte ich ein Problem

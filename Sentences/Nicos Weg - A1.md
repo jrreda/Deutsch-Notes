@@ -23,6 +23,7 @@
 - Ich muss loss!
 - Schönen Tag noch!
 - Komm mal her! = come over here!
+- Na, das ist ja was! = **Well, that’s something!**
 
 ---
 
