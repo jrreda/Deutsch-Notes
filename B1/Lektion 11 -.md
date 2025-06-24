@@ -9,9 +9,9 @@
 - 
 
 ### **Verben**
-- aussuchen = select / pick out
+- aus|suchen = to select / pick out / to choose
 - angehen = concern
-- können sich leisten = can affoard
+- können sich leisten = can afford
 - sich ereignen = to occur
 	- Sie sich ein schrecklicher Unfall ereignete
 - zugang zu = access to

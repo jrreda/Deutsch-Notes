@@ -24,35 +24,50 @@
 - Schönen Tag noch!
 - Komm mal her! = come over here!
 - Na, das ist ja was! = **Well, that’s something!**
+- Könnt ihr mir ein gefallen tun?
+- Darf es sonst noch was sein? / Sonst noch etwas? / Haben Sie sonst noch einen Wunsch? / Sie wünschen?
+- Was kostet das Fleisch? / Wie viel kostet das Fleisch (kosten die Gruken)? / Wie teuer ist das Fleisch?
 
 ---
 
 ## 📖 Vokabeln
 
 ### #Nomen 
-- der Föhn, die Föhne = hair dryer
--  die Langeweile = boredom
-- der Ausgang, die Ausgänge = exit
-- der Empfang = reception
-- die Etage -n = floor / level
-- die Garderobe, die Garderoben = coat check / rack
-- das Gebäude, die Gebäude = building
-- der Lesesaal, die Lesesäle = reading room
-- der Notausgang, die Notausgänge = emergency exit
-- die Gasse = a small street (alley) like (der Weg)
-- die Allee = a large, wide street
-- die Oper, n = opera
-- der Fahrplan, die Fahrpläne = timetable; schedule
-- die Tastatur ,n = keyboard
-- der Verkehr = traffic
-- die Beilage, n = side dish
-- der Pfannkuchen = pancake
-- die Wäsche #nur_singular = laundry
-- das Geschirr #nur_singular = crockery / dishes
-- der Besen, - = broom / مقشة
-- der Staubsauger, - = vacuum cleaner
-- die Wäsche #nur_singular = washing / laundry
-- die Freizeit #nur_singular = freetime
+- [[der]] Föhn, die Föhne = hair dryer
+- [[die]] Langeweile = boredom
+- [[der]] Ausgang, die Ausgänge = exit
+- [[der]] Empfang = reception
+- [[die]] Etage -n = floor / level
+- [[die]] Garderobe, die Garderoben = coat check / rack
+- [[das]] Gebäude, die Gebäude = building
+- [[der]] Lesesaal, die Lesesäle = reading room
+- [[der]] Notausgang, die Notausgänge = emergency exit
+- [[die]] Gasse = a small street (alley) like (der Weg)
+- [[die]] Allee = a large, wide street
+- [[die]] Oper, n = opera
+- [[der]] Fahrplan, die Fahrpläne = timetable; schedule
+- [[die]] Tastatur ,n = keyboard
+- [[der]] Verkehr = traffic
+- [[die]] Beilage, n = side dish
+- [[der]] Pfannkuchen = pancake
+- [[die]] Wäsche #nur_singular = laundry
+- [[das]] Geschirr #nur_singular = crockery / dishes
+- [[der]] Besen, - = broom / مقشة
+- [[der]] Staubsauger, - = vacuum cleaner
+- [[die]] Wäsche #nur_singular = washing / laundry
+- [[die]] Freizeit #nur_singular = free time
+- [[die]] Dose, -n = can
+- [[der]] Mais #nur_singular = corn
+- [[das]] Mehl #nur_singular = flour
+- [[die]] Menge, n = quantity / amount
+- [[das]] Öl, -e = oil
+- [[das]] Pfund, -e (nach Zahl: Pfund) = pound (500 Gramm)
+- [[das]] Rindfleisch #nur_singular = beef
+- [[die]] Tafel, -n = bar
+- [[der]] Bauer, -n = farmer (male)
+- [[die]] Bäuerin, -nen = farmer (female)
+- [[die]] Dattel, -n = date
+- [[die]] Traube, -n = grape
 
 ## #Verben 
 - aus|schalfen = to sleep in
@@ -71,6 +86,9 @@
 - staubsaugen = to vacuum
 - angeln = to fish
 - sport treiben = do sport / workout
+- (über jemanden/etwas) reden = to talk about someone/something
+- etwas schneiden = to cut something
+
  
 ### #Adjektive  und #Adverbien 
 - dreckig (dreckiger, am dreckigsten) = dirty
@@ -86,6 +104,7 @@
 - nie mehr = never again
 - wie = as
 - anstrengend = strenuous #gegenteil-von entspannend = relaxing
+- umsonst = free / for nothing
 
 
 ---

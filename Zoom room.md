@@ -9,6 +9,10 @@ Grammatik buch
 ä / ö / ü
 
 
+- search with sku
+- out of stock product (quantity 0)
+
+
 B1 Netzwerk 
 Die Ziele Lektion 1
 Wortschatz rund um Urlaub 

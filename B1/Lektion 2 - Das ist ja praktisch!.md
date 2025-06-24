@@ -34,7 +34,7 @@
 - [[der]] Einbruch -"e = break in
 - [[die]] Jalousie-n = curtains
 - [[die]] Nutzung-en = usage
-- [[das]] verhalten = behaviour
+- [[das]] Verhalten = behaviour
 - [[das]] Kaufverhalten = shopping behavior
 - [[das]] Merkmal-e = characteristic
 - [[das]] Abenteuer = adventure
@@ -56,10 +56,10 @@
 
 ### #Verben 
 
-- sich verzichten auf ::: etwas lassen = to forget
+- #sich verzichten auf ::: etwas lassen = to forget
 - streichen = cancel or paint
 	- die Wohnung streichen (paint)
-- sich schaffen ::: kaufen
+- #sich schaffen ::: kaufen
 	- Ich schaffe mir ein neues Handy.
 - Umtauschen: You bought something that happened that you don't like it, so you return it to the store to ask for an other product.
 - Austauschen: you replace broken parts of a machine
@@ -67,9 +67,9 @@
 - ansehen = look at
 - hinsehen = to look
 - nach sehen = to have a look
-- ansprechen = speak to
+- ansprechen = speak to / to address
 	- Werbung spricht sehr oft Gefühl an.
-- verhalten = behave
+- #sich verhalten ::: #sich benehmen = to behave
 - anschließen = to connect
 	- Er schließt den Lautsprecher an den Laptop
 - bedienen = to use
@@ -79,16 +79,16 @@
 - schalten = to switch
 	- das Handy stumm schalten
 - anschalten / einschalten = to switch on
-- (sich) anschaffen = to get
+- #sich anschaffen = to get
 - kaputt gehen = to break
 - nähen = to sew
 - anhaben = to wear
 - bemerken = to notice
 - steuern = steer / control
-- an passen + [[Akk]] = to adjust
+- [[an]] passen + [[Der Akkusativ]] = to adjust
 - geschehen = occur / happen
 	- gern geschehen
-- leisten (sich) = to afford
+- leisten #sich = to afford
 - entsprechen = to correspond
 - reichen = to be enough
 	- Das reicht schon.

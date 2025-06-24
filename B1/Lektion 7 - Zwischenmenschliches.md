@@ -48,7 +48,8 @@
 - [[der]] Nachteil ,e = disadvantage
 - [[die]] Bereicherung ,en = enrichment / الإثراء
 - [[der]] Trost = comfort
-- [[die]] Voraussetzung ,en = preqeuisite
+- [[die]] Voraussetzung ,en = pereqeuisite
+- [[die]] Beziehung, -en = relationship
  
 ### **Verben**
 - hervor.heben = highlight

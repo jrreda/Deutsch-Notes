@@ -51,7 +51,7 @@
 - fänden = would find
 
 ### **Adjektive und Adverbien**
-- beziehungsweise (bzw) = or /
+- beziehungsweise (bzw) = or / rather / respectively
 - sogenannte = so called
 - genügend = enough / sufficient
 - erstaunlich = astonishing

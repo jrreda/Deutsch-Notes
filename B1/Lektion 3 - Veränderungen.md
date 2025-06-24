@@ -2,6 +2,19 @@
 - die Kunden schätzen unsere Qualität
 - Es war eine gute Erfahrung
 - Aus diesem Grund ...
+- Genau so geht es mir! (that's exactly how I feel)
+- Für mich ist es viel mehr als, ...
+- Das ist alles das Gleiche, ...
+- Als Lehrling hatte ich nur wenig Geld.
+- Am letzten Tag des Monat bekam ich mein erstes Gehalt.
+- Ich wollte mich, ...
+- Das es leider nicht mehr gibt.
+- Das gilt so nicht mehr.
+- Das war relativ teuer, aber ich wollte und konnte mir das endlich leisten.
+- Gestern finde ich es zufällig.
+- Früher war einiges noch anders.
+- das stimmt theoretisch immer noch, aber es gibt Ausnahmen.
+- Benimm dich!
 
 ---
 
@@ -37,6 +50,25 @@
 - [[die]] Wirbelsäule, -n = spine
 - [[der]] Aufenthalt, e = stay
 - [[der]] Held, en | in, nen = Hero
+- [[der]] / [[die]] Alte, -n = oneself
+- [[der]] Sonnabend, -e = Saturday
+- [[das]] Klinikum, Kliniken = clinic, hospital
+- [[das]] Verhältnis, -se = Relationship
+- [[die]] Zuneigung, -en = affection
+- [[die]] Botschaft, -en = embassy / message
+- [[das]] Konsulat, -e = consulate
+- [[der]] Zoll, -"e = Customs
+- [[der]] / [[die]] Büroangestellte, n = office worker
+- [[die]] Kanne, -n = Jug / pot
+- [[der]] Lehrling, -e = apprentice / trainee
+- [[der]] Baustein, e = building block
+- [[das]] Muster, - = pattern
+- [[das]] Benehmen #nur_singular = behavior / conduct
+- [[der]] Gastgeber, - | in, -nen = host
+- [[der]] Kuss, -"e = kiss
+- [[das]] Personal #nur_singular = the stuff
+- [[der]] / [[die]] Vorgesetzte, -n = superiors
+- [[die]] Wange, -n = cheek
 
 ### **Verben**
 - verursachen = cause
@@ -44,17 +76,32 @@
 - abbauen = tear down
 - #sich ernähren = to eat / to nutrition
 - erben = to inherit
-- führen zu + D = to lead to
-- #sich ein|setzen (für / gegen + A) = to support
+- führen [[zu]] + [[Der Dativ]] = to lead to
+- #sich ein|setzen (für / gegen + [[Der Akkusativ]]) = to support
 - verursachen = to cause
 - ehren = to honor
 - engagiert #sein = be committed / to be involved in
 - ereignen #sich = to occur / to happen
-- kämpfen  (für / gegen + A) = to fight
+- kämpfen  (für / gegen + [[Der Akkusativ]]) = to fight
 - stürzen = to fall
 - tätig sein = be active
 - begeistern = to inspire / delight
 - bewundern = to admire
+- gemacht #sein (für + [[Der Akkusativ]]) = to be made for
+- verlieben #sich (in + [[Der Akkusativ]]) = to fall in love
+- verschwinden = to disappear
+- überqueren = cross over
+- auf|gehen = rise, come up, open
+- weg|ziehen = to move away
+- gucken = to look
+- ver|öffentlichen = to release / to publish
+- auf|halten = to stop / hold up / keep
+	- Es ist höflich, anderen Menschen die Tür aufzuhalten. (hold the door)
+- klagen = to complain / sue / lament (رثاء)
+- niesen = to sneeze
+- duzen #gegenteil-von siezen
+- umarmen = to hug / to emprace
+- gelten  = to applies
 
 ### **Adjektive und Adverbien**
 - streng = strict
@@ -77,6 +124,23 @@
 - von ... auf = from one to the next
 	- von einem Tag auf den anderen
 - solche = such
+- liebevoll = loving
+- jetzig = current
+- riesig = huge / gigantic / enormous
+- jahrelang = for years
+- anwesend = present
+- vorher = previously #gegenteil-von nachher = afterward
+- hierarchisch = hierarchical  
+- üblich = usual / common
+- umgekehrt = vice versa
+	- nie umgekehrt = never the other way around 
+- unter + [[Der Dativ]] = among
+	- Unter Studierenden gibt es eigentlich kein Siezen mehr.
+	- Unter studierenden duzt man sich.
+- verkehrt = wrong
+- vertraut = trusted / familiar
+- übrigens = by the way
+
 
 ---
 
